@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(11, 11, 63);
+    height : 222px;
+    /* padding: -2px -2px -2px -200px */
+    box-sizing: border-box
+}
+
+.nv-bar{
+    background-color: rgb(55, 55, 110);
+    height: 60px;
+    text-align: left;
+    color: antiquewhite;
+    padding: 0.5%;
+    position:static; 
+     
+}
+
+.frmV{
+    background-color: rgb(55, 55, 110);
+    height: 500px;
+    width:  400px;
+    margin: 3%;
+    /* margin-left: 33.33%; */
+    box-shadow: 10px 10px 10px rgb(28, 10, 59);
+    padding: 2%;
+    color: rgb(204, 225, 240);  
+}
+
+.frm{
+    margin: 5%;
+}
+h2{
+    text-align: center;
+    margin: 10%;
+    color: rgb(233, 179, 224); 
+}
+
+input{
+    height: 25px;
+    width: 80%;
+ 
+}
+
+button{
+    height: 25px;
+    /* width: 25%; */
+    border-radius: 5px;
+    margin: 3% 0% 0% 0%;
+    
+    background-color: rgb(186, 125, 243);
+    /* border: 0 */
+}
+
+.container{
+display: flex;
+
+}
+
+.listv{
+
+    background-color: rgb(55, 55, 110);
+    height: 500px;
+    width:  600px;
+    margin: 3% 1% 1% 1%;
+    /* margin-left: 33.33%; */
+    box-shadow: 10px 10px 10px rgb(28, 10, 59);
+    padding: 2%;
+    color: rgb(204, 225, 240);  
+}
+
+td,th{
+   width: 200px ;
+   text-align: center
+}
+
+.opt{
+text-align: right;
+margin: -6% 0% 0% 0%
+    
+}
+
